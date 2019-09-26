@@ -64,6 +64,6 @@ C:\Users\simon.feng\Documents\Visual Studio 2015\Projects\NewWebApp\NewWebApp\Ne
 C:\Users\simon.feng\Documents\Visual Studio 2015\Projects\NewWebApp\NewWebApp\NewWebApp\bin\Microsoft.Owin.Security.Google.xml
 C:\Users\simon.feng\Documents\Visual Studio 2015\Projects\NewWebApp\NewWebApp\NewWebApp\bin\Microsoft.Owin.Security.Twitter.xml
 C:\Users\simon.feng\Documents\Visual Studio 2015\Projects\NewWebApp\NewWebApp\NewWebApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
-C:\Users\simon.feng\Documents\Visual Studio 2015\Projects\NewWebApp\NewWebApp\NewWebApp\obj\Debug\NewWebApp.csprojResolveAssemblyReference.cache
 C:\Users\simon.feng\Documents\Visual Studio 2015\Projects\NewWebApp\NewWebApp\NewWebApp\obj\Debug\NewWebApp.dll
 C:\Users\simon.feng\Documents\Visual Studio 2015\Projects\NewWebApp\NewWebApp\NewWebApp\obj\Debug\NewWebApp.pdb
+C:\Users\simon.feng\Documents\Visual Studio 2015\Projects\NewWebApp\NewWebApp\NewWebApp\obj\Debug\NewWebApp.csprojResolveAssemblyReference.cache
